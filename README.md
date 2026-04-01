@@ -347,7 +347,7 @@ If you use this code in your research, please cite:
     author = {Paul J Mello},
     title  = {CatDL: Categorical Deep Learning},
     year   = {2025},
-    url    = {https://github.com/pauljmello/CatDL}
+    url    = {https://github.com/pauljmello/CatDL-Categorical-Deep-Learning}
 }
 ```
 
