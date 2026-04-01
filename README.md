@@ -48,15 +48,15 @@ CatDL fundamentally explores and shows the practicality of building a deep learn
 ### Euc: The Base Category (CRDC + CCC)
 
 The foundation of this approach is a CRDC over Euclidean space. 
-Objects are $\mathbb{R}^n$ (or like nested products such as $\mathbb{R}^3 \times (\mathbb{R}^2 \times \mathbb{R}^4)$). 
+Objects are $\mathbb{R}^n$, or like nested products such as $\mathbb{R}^3 \times (\mathbb{R}^2 \times \mathbb{R}^4)$.
 Every morphism $f: A \to B$ uses a forward map paired with a reverse derivative. 
 This construction shows the following:
 
-$$R[\text{id}](x,\, \bar{y}) = \bar{y} \qquad \text{(identity rule)}$$
+$$R\lbrack\text{id}\rbrack(x,\, \bar{y}) = \bar{y} \qquad \text{(identity rule)}$$
 
-$$R[g \circ f](x,\, \bar{z}) = R[f]\big(x,\, R[g](f(x),\, \bar{z})\big) \qquad \text{(chain rule)}$$
+$$R\lbrack g \circ f\rbrack(x,\, \bar{z}) = R\lbrack f\rbrack\bigl(x,\, R\lbrack g\rbrack(f(x),\, \bar{z})\bigr) \qquad \text{(chain rule)}$$
 
-$$R[f \times g]\big((a,b),\, (\bar{a},\bar{b})\big) = \big(R[f](a,\bar{a}),\, R[g](b,\bar{b})\big) \qquad \text{(product rule)}$$
+$$R\lbrack f \times g\rbrack\bigl((a,b),\, (\bar{a},\bar{b})\bigr) = \bigl(R\lbrack f\rbrack(a,\bar{a}),\, R\lbrack g\rbrack(b,\bar{b})\bigr) \qquad \text{(product rule)}$$
 
 The chain rule, in deep learning, is backpropagation. 
 For category theory, composing two morphisms automatically chains their pullbacks in reverse order. 
