@@ -343,10 +343,10 @@ I hope that this implementation can be used for research and exploration of furt
 If you use this code in your research, please cite:
 
 ```bibtex
-@software{pjm2025CatDL,
+@software{pjm2026CatDL,
     author = {Paul J Mello},
     title  = {CatDL: Categorical Deep Learning},
-    year   = {2025},
+    year   = {2026},
     url    = {https://github.com/pauljmello/CatDL-Categorical-Deep-Learning}
 }
 ```
