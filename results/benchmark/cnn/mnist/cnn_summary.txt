@@ -1,0 +1,8 @@
+Benchmark: CNN on mnist
+==================================================
+
+Metric                           CatDL      PyTorch
+-------------------------------------------------
+Best Test Accuracy             0.9924       0.9900
+Final Training Loss            0.0126       0.0138
+Total Time (s)                  73.73        48.12

@@ -1,0 +1,14 @@
+Training Summary: cnn on mnist
+==================================================
+
+Total Epochs: 25
+Final Training Loss: 0.0076
+Final Test Accuracy: 0.9915
+Best Test Accuracy: 0.9918 (Epoch 15)
+Lowest Training Loss: 0.0076 (Epoch 25)
+
+Timing Information:
+Total Training Time: 68.25 seconds (1.14 minutes)
+Average Time per Epoch: 2.73 seconds
+Fastest Epoch: 2.24 seconds (Epoch 20)
+Slowest Epoch: 7.65 seconds (Epoch 1)

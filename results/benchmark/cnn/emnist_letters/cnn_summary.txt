@@ -1,0 +1,8 @@
+Benchmark: CNN on emnist:letters
+==================================================
+
+Metric                           CatDL      PyTorch
+-------------------------------------------------
+Best Test Accuracy             0.9363       0.9360
+Final Training Loss            0.1124       0.1348
+Total Time (s)                 112.12        83.19

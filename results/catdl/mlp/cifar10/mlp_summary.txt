@@ -1,0 +1,14 @@
+Training Summary: mlp on cifar10
+==================================================
+
+Total Epochs: 25
+Final Training Loss: 1.2911
+Final Test Accuracy: 0.5049
+Best Test Accuracy: 0.5049 (Epoch 25)
+Lowest Training Loss: 1.2911 (Epoch 25)
+
+Timing Information:
+Total Training Time: 66.73 seconds (1.11 minutes)
+Average Time per Epoch: 2.67 seconds
+Fastest Epoch: 1.89 seconds (Epoch 13)
+Slowest Epoch: 18.90 seconds (Epoch 1)

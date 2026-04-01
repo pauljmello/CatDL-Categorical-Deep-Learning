@@ -1,0 +1,14 @@
+Training Summary: resmlp on cifar10
+==================================================
+
+Total Epochs: 25
+Final Training Loss: 1.5159
+Final Test Accuracy: 0.4241
+Best Test Accuracy: 0.4265 (Epoch 22)
+Lowest Training Loss: 1.5132 (Epoch 22)
+
+Timing Information:
+Total Training Time: 83.12 seconds (1.39 minutes)
+Average Time per Epoch: 3.32 seconds
+Fastest Epoch: 2.36 seconds (Epoch 24)
+Slowest Epoch: 21.63 seconds (Epoch 1)

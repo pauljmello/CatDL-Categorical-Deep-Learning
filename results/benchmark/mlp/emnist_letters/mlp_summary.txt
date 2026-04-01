@@ -1,0 +1,8 @@
+Benchmark: MLP on emnist:letters
+==================================================
+
+Metric                           CatDL      PyTorch
+-------------------------------------------------
+Best Test Accuracy             0.9091       0.9149
+Final Training Loss            0.0876       0.0861
+Total Time (s)                  90.75        86.38

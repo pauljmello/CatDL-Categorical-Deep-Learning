@@ -1,0 +1,8 @@
+Benchmark: MLP on cifar10
+==================================================
+
+Metric                           CatDL      PyTorch
+-------------------------------------------------
+Best Test Accuracy             0.5127       0.5155
+Final Training Loss            1.2971       1.2570
+Total Time (s)                  70.85        73.48

@@ -1,0 +1,8 @@
+Benchmark: CNN on emnist:balanced
+==================================================
+
+Metric                           CatDL      PyTorch
+-------------------------------------------------
+Best Test Accuracy             0.8801       0.8795
+Final Training Loss            0.2456       0.2655
+Total Time (s)                 102.91        78.77

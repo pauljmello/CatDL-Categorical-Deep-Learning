@@ -1,0 +1,8 @@
+Benchmark: RESMLP on cifar10
+==================================================
+
+Metric                           CatDL      PyTorch
+-------------------------------------------------
+Best Test Accuracy             0.4230       0.4465
+Final Training Loss            1.5218       1.5124
+Total Time (s)                  82.83        72.18

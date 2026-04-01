@@ -1,0 +1,14 @@
+Training Summary: mlp on mnist
+==================================================
+
+Total Epochs: 25
+Final Training Loss: 0.0042
+Final Test Accuracy: 0.9809
+Best Test Accuracy: 0.9811 (Epoch 23)
+Lowest Training Loss: 0.0042 (Epoch 25)
+
+Timing Information:
+Total Training Time: 48.71 seconds (0.81 minutes)
+Average Time per Epoch: 1.95 seconds
+Fastest Epoch: 1.62 seconds (Epoch 13)
+Slowest Epoch: 6.62 seconds (Epoch 1)

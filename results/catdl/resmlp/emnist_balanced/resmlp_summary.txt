@@ -1,0 +1,14 @@
+Training Summary: resmlp on emnist:balanced
+==================================================
+
+Total Epochs: 25
+Final Training Loss: 0.3767
+Final Test Accuracy: 0.8183
+Best Test Accuracy: 0.8221 (Epoch 14)
+Lowest Training Loss: 0.3753 (Epoch 15)
+
+Timing Information:
+Total Training Time: 89.05 seconds (1.48 minutes)
+Average Time per Epoch: 3.56 seconds
+Fastest Epoch: 3.08 seconds (Epoch 15)
+Slowest Epoch: 8.10 seconds (Epoch 1)

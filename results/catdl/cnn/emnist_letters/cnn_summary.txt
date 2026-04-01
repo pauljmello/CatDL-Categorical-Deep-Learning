@@ -1,0 +1,14 @@
+Training Summary: cnn on emnist:letters
+==================================================
+
+Total Epochs: 25
+Final Training Loss: 0.1169
+Final Test Accuracy: 0.9341
+Best Test Accuracy: 0.9370 (Epoch 21)
+Lowest Training Loss: 0.1169 (Epoch 25)
+
+Timing Information:
+Total Training Time: 137.21 seconds (2.29 minutes)
+Average Time per Epoch: 5.49 seconds
+Fastest Epoch: 4.53 seconds (Epoch 7)
+Slowest Epoch: 9.70 seconds (Epoch 1)

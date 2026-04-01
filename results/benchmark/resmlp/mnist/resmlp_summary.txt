@@ -1,0 +1,8 @@
+Benchmark: RESMLP on mnist
+==================================================
+
+Metric                           CatDL      PyTorch
+-------------------------------------------------
+Best Test Accuracy             0.9754       0.9748
+Final Training Loss            0.0456       0.0489
+Total Time (s)                  47.36        45.12

@@ -1,0 +1,14 @@
+Training Summary: resmlp on mnist
+==================================================
+
+Total Epochs: 25
+Final Training Loss: 0.0483
+Final Test Accuracy: 0.9697
+Best Test Accuracy: 0.9748 (Epoch 5)
+Lowest Training Loss: 0.0314 (Epoch 22)
+
+Timing Information:
+Total Training Time: 54.00 seconds (0.90 minutes)
+Average Time per Epoch: 2.16 seconds
+Fastest Epoch: 1.69 seconds (Epoch 3)
+Slowest Epoch: 6.72 seconds (Epoch 1)

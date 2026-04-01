@@ -1,0 +1,8 @@
+Benchmark: RESMLP on emnist:digits
+==================================================
+
+Metric                           CatDL      PyTorch
+-------------------------------------------------
+Best Test Accuracy             0.9829       0.9820
+Final Training Loss            0.0679       0.0723
+Total Time (s)                 178.67       161.24

@@ -1,0 +1,8 @@
+Benchmark: MLP on mnist
+==================================================
+
+Metric                           CatDL      PyTorch
+-------------------------------------------------
+Best Test Accuracy             0.9821       0.9807
+Final Training Loss            0.0104       0.0078
+Total Time (s)                  44.02        43.45

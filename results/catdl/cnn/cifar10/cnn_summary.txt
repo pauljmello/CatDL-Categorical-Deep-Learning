@@ -1,0 +1,14 @@
+Training Summary: cnn on cifar10
+==================================================
+
+Total Epochs: 25
+Final Training Loss: 0.8144
+Final Test Accuracy: 0.7004
+Best Test Accuracy: 0.7004 (Epoch 25)
+Lowest Training Loss: 0.8144 (Epoch 25)
+
+Timing Information:
+Total Training Time: 88.05 seconds (1.47 minutes)
+Average Time per Epoch: 3.52 seconds
+Fastest Epoch: 2.51 seconds (Epoch 12)
+Slowest Epoch: 20.84 seconds (Epoch 1)

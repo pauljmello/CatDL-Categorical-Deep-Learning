@@ -1,0 +1,14 @@
+Training Summary: mlp on emnist:balanced
+==================================================
+
+Total Epochs: 25
+Final Training Loss: 0.1934
+Final Test Accuracy: 0.8325
+Best Test Accuracy: 0.8402 (Epoch 7)
+Lowest Training Loss: 0.1908 (Epoch 24)
+
+Timing Information:
+Total Training Time: 78.42 seconds (1.31 minutes)
+Average Time per Epoch: 3.14 seconds
+Fastest Epoch: 2.58 seconds (Epoch 14)
+Slowest Epoch: 8.42 seconds (Epoch 1)
